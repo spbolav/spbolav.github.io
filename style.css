@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  font-family: Andalus;
+}
+
+hr {
+	margin-left: 300px;
+}
+#headline {
+	height: 25px;
+	width: 100%;
+	margin: 0px;
+}
+
+header {
+	background-image: url("head.gif");
+	color: MidnightBlue;
+	padding-top: 30px;
+	padding-left: 30px;
+	margin: 0px;
+	height: 250px;
+	
+}
+
+.carrier p {
+	font-style: italic;
+	position: relative;
+	text-align: left;
+    left: 150px;
+	width: 70%;
+	height: 110px;
+}
+
+.boris {
+  padding: 8px;
+  border: 1px solid #ddd;
+  height: 200px;
+  width: 160px;
+  border-radius: 5px;
+  display: block;
+  float: left;
+}
+
+.borisname {
+	font-size: 30px;
+	margin: 0px;
+	padding-top: 50px;
+	padding-left: 250px;
+	
+}
+
+.position {
+	font-style: italic;
+	font-size: 20px;
+	margin: 0px;
+	padding-left: 250px;
+}
+
+.perosnal {
+	font-size: 15px;
+	padding-left: 1px;
+	padding-top: 83px;
+	position: relative;
+}
+
+.right {
+	margin: 0px;
+	padding: 0px;
+	padding-left: 11px;
+}
+
+.left {
+	padding-left: 10px;
+}
+
+.date {
+	text-align: right;
+	padding-right: 10px;
+	border: 1px solid DarkOrange;
+	margin-left: 85%;
+	border-radius: 10px;
+	background-color: DarkOrange;
+}
+
+.exright {
+	position: relative;
+	padding-left: 130px;
+	padding-right: 5px;
+	text-align: justify;
+}
+table {
+    width: 100%;        		/* table width*/
+	border-collapse: collapse;  /* merage borders in one border*/
+}
+
+td {
+    height: 20px; 				/* height of rows*/
+	border-bottom: 1px solid #ddd;
+	vertical-align: middle;
+	padding: 0px;
+	padding-left: 20px;
+	
+}
+tr:nth-child(even) {background-color: AntiqueWhite;}
+
+#print{
+	float: right;
+	padding-right: 20px;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+
+
+
+
+
+
